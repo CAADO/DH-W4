@@ -1,4 +1,4 @@
-Excel went ezpz, I was able to move through this quickly
+Excel went very smoothly, I was able to move through this quickly
 
 no errors in section 1, other then remembering to fire lines in r when you're selecting the line in question. Hitting enter and then run will put you on the next line, and not work properly. 
 
