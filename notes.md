@@ -14,3 +14,10 @@ the original download link for the topic modeling stuff on windows didn't work f
 
 I had to google what a directory was
 
+ok I take it back, I'm not uploading all of the text files, that was a pointless idea seeing as I need to use them here anyway.
+
+topic modeling seems smooth so far. I'm going to slap it in excel, and maybe powerBI.
+
+I don't really want to do *more* R right now, so I'm going to skip the extra stuff. The link is good though.
+
+Pivot table charts are interesting for this. 
