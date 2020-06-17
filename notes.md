@@ -22,6 +22,10 @@ I don't really want to do *more* R right now, so I'm going to skip the extra stu
 
 Pivot table charts are interesting for this. What do I need to understand this? probably basic subject matter knowlege, and some data cleaning, if we're being honest. Playing with blind data is kinda fun, but not very historically useful.
 
+onto the r stuff 
 
+the r script seemed to fail, but I was able to get it to load the data anyway through selection, so maybe it did work? 
 
+errors everywhere, but it seems to be working fine, so...
 
+trying a couple of fixes, my R seems to be missing some installs. 
