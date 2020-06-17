@@ -20,4 +20,8 @@ topic modeling seems smooth so far. I'm going to slap it in excel, and maybe pow
 
 I don't really want to do *more* R right now, so I'm going to skip the extra stuff. The link is good though.
 
-Pivot table charts are interesting for this. 
+Pivot table charts are interesting for this. What do I need to understand this? probably basic subject matter knowlege, and some data cleaning, if we're being honest. Playing with blind data is kinda fun, but not very historically useful.
+
+
+
+
