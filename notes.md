@@ -29,3 +29,5 @@ the r script seemed to fail, but I was able to get it to load the data anyway th
 errors everywhere, but it seems to be working fine, so...
 
 trying a couple of fixes, my R seems to be missing some installs. 
+
+yea, everything seems to have gone wrong here. My R is throwing out "could not find function "read_cvs"
