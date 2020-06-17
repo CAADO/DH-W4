@@ -30,4 +30,6 @@ errors everywhere, but it seems to be working fine, so...
 
 trying a couple of fixes, my R seems to be missing some installs. 
 
-yea, everything seems to have gone wrong here. My R is throwing out "could not find function "read_cvs"
+yea, everything seems to have gone wrong here. My R is throwing out "could not find function "read_cvs" that's so basic idk how to fix it. 
+
+I suppose this is my first stoppage. 
